@@ -1,0 +1,13 @@
+﻿.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+models/*.joblib
+results/*.csv
+results/*.png
+
+.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/shelf/
